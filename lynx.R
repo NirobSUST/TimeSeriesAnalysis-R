@@ -1,0 +1,8 @@
+head(lynx)
+time(lynx)
+length(lynx)
+mean(lynx); median(lynx)
+plot(lynx)
+sort(lynx)
+quantile(lynx)
+quantile(lynx, prob = seq(0, 1, length = 11), type = 5)
